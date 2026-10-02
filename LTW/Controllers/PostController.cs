@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace LTW.Controllers
+namespace LTW_5.Controllers
 {
     public class PostController : Controller
     {
